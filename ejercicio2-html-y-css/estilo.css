@@ -16,8 +16,9 @@ form {
     flex-direction: column;
     background: #faf8fa;
     text-align: center;
-    padding: 20px 25px;
-    box-shadow: 5px 10px #740d6b(71, 3, 6, 0, 7);
+    padding: 3.5em 3em;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px;
 }
 form .title {
     color: #070107;
